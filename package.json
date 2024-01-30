@@ -10,13 +10,13 @@
   },
   "dependencies": {
     "@azure/core-asynciterator-polyfill": "^1.0.2",
-    "expo": "~50.0.4",
-    "expo-status-bar": "~1.11.1",
+    "expo": "49",
+    "expo-status-bar": "~1.6.0",
     "fastestsmallesttextencoderdecoder": "^1.0.22",
     "nats.ws": "^1.19.1",
     "node-libs-react-native": "^1.2.1",
     "react": "18.2.0",
-    "react-native": "0.73.2",
+    "react-native": "0.72.6",
     "react-native-url-polyfill": "^2.0.0",
     "text-encoding-polyfill": "^0.6.7"
   },
